@@ -51,6 +51,6 @@
 
 	* Git e Github
 	* HTML
- * CSS
-    * Flex box
+ 	* CSS
+    	* Flex box
 
