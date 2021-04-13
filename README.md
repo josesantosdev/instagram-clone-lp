@@ -26,13 +26,13 @@
 
 #### 	Desktop
 
-![index-desktop](C:\Users\theca\Downloads\0efda6f1-337d-4477-a71c-480eb3ee7219\instagram-dio-master\readme-img\index-desktop.png)
+![index-desktop](C:.\readme-img\index-desktop.png)
 
 
 
 #### 	Mobile
 
-![index-mobile](C:\Users\theca\Downloads\0efda6f1-337d-4477-a71c-480eb3ee7219\instagram-dio-master\readme-img\index-mobile.png)
+![index-mobile](.\readme-img\index-mobile.png)
 
 ### Tecnologias
 
