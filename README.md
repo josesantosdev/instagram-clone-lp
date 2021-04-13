@@ -49,8 +49,7 @@
 
 ​	Objetivo: Consolidar conhecimento dos tópicos anteriores.
 
-	* Git e Github
-	* HTML
- 	* CSS
-    	* Flex box
-
+* Git e Github
+* HTML
+* CSS
+* Flex box
