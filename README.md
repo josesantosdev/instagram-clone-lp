@@ -26,7 +26,7 @@
 
 #### 	Desktop
 
-![index-desktop](C:.\readme-img\index-desktop.png)
+![index-desktop](.\readme-img\index-desktop.png)
 
 
 
