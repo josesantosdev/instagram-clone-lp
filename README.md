@@ -52,4 +52,4 @@
 * Git e Github
 * HTML
 * CSS
-* Flex box
+* Display Flex
