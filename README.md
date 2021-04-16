@@ -10,13 +10,13 @@
 
 * Desktop
 
-![alt-text](https://github.com/thecaasantos/Instagram-Clone-LP/blob/master/readme-img/index-desktop.png)
+![Versão Desktop](https://github.com/thecaasantos/Instagram-Clone-LP/blob/master/readme-img/index-desktop.png)
 
 
 
 * Mobile
 
-![index-mobile](https://github.com/thecaasantos/Instagram-Clone-LP/blob/master/readme-img/index-mobile.png)
+![Versão mobile](https://github.com/thecaasantos/Instagram-Clone-LP/blob/master/readme-img/index-mobile.png)
 
 ### Tecnologias
 
